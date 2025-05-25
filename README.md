@@ -20,14 +20,18 @@ DC analysis would be used to plot a Voltage Transfer Characteristics (VTC) curve
 
 ![image alt](https://user-images.githubusercontent.com/43693407/143764318-d0893545-f47c-44b8-a27c-8de8bc4f0759.jpg)
 
+
+
 **The meeting point (also called threshold voltage) should be at a value of VDD/2 for maximum noise margins**
 
-In the above image we can see the **Vth value** is *8.380288e-01*
+In the above image we can see the **Vth value** is **8.380288e-01**
 
-After changing the Width of pmos to 2 we can see the value of Vth shifts towards the right
+
 
 ![image alt](https://github.com/saksham19rawat/CMOS-INVERTER/blob/main/cmos/Screenshot%202025-05-22%20172256.png?raw=true)
 
 ![image alt](https://github.com/saksham19rawat/CMOS-INVERTER/blob/main/cmos/Screenshot%202025-05-22%20172359.png?raw=true)
 
-Now Vth is *8.6982931e-01*
+After changing the Width of pmos to 2 we can see the value of Vth shifts towards the right
+
+Now Vth is **8.6982931e-01**
