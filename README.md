@@ -35,3 +35,9 @@ In the above image we can see the **Vth value** is **8.380288e-01**
 After changing the Width of pmos to 2 we can see the value of Vth shifts towards the right
 
 Now Vth is **8.6982931e-01**
+
+
+
+![image alt](https://github.com/saksham19rawat/CMOS-INVERTER/blob/main/cmos/Screenshot%202025-05-22%20224955.png?raw=true)
+
+![image alt](https://github.com/saksham19rawat/CMOS-INVERTER/blob/main/cmos/Screenshot%202025-05-22%20233812.png?raw=true)
