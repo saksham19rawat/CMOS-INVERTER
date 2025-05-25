@@ -6,4 +6,16 @@ Before, I start with the CMOS inverter, I believe it is worth mentioning what an
 
 # DESIGNING THE CIRCUIT
 
-![image alt](https://www.censtry.com/files/ueditor/image/20240131/6384228715111282221516252.png)
+![image alt](https://github.com/saksham19rawat/CMOS-INVERTER/blob/main/cmos/Screenshot%202025-05-25%20151432.png?raw=true)
+
+![image alt](https://github.com/saksham19rawat/CMOS-INVERTER/blob/main/cmos/Screenshot%202025-05-22%20233729.png?raw=true)
+
+![image alt](https://github.com/saksham19rawat/CMOS-INVERTER/blob/main/cmos/Screenshot%202025-05-22%20171844.png?raw=true)
+
+![image alt](https://github.com/saksham19rawat/CMOS-INVERTER/blob/main/cmos/Screenshot%202025-05-22%20171853.png?raw=true)
+
+![image alt](https://github.com/saksham19rawat/CMOS-INVERTER/blob/main/cmos/Screenshot%202025-05-22%20171903.png?raw=true)
+
+![image alt](https://github.com/saksham19rawat/CMOS-INVERTER/blob/main/cmos/Screenshot%202025-05-22%20172256.png?raw=true)
+
+![image alt](https://github.com/saksham19rawat/CMOS-INVERTER/blob/main/cmos/Screenshot%202025-05-22%20172359.png?raw=true)
